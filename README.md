@@ -6,11 +6,8 @@
 
 
 <br>
-
-
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/karthik-924/karthik-924/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/karthik-924/karthik-924/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -36,6 +33,9 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
     
@@ -43,13 +43,41 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2316B6DB.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Mantine](https://img.shields.io/badge/Mantine%20-%231E1E1E.svg?style=for-the-badge&logo=mantine&logoColor=white)
 
+<br>
+
+- **Back-End Development**:
+
+    ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/Express.js%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+    ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+<br>
+
+- **Databases**:
+
+    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+    ![Oracle](https://img.shields.io/badge/Oracle%20-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+<br>
+
+- **Frameworks**:
+
+    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+    
 <br>
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/Netlify%20-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
     
 <br>
 
@@ -60,13 +88,14 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20-%23F7931E.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
+    ![Data Structures](https://img.shields.io/badge/Data%20Structures%20-%23000000.svg?style=for-the-badge&logo=data-structures&logoColor=white)   
 
 
 </p>
@@ -86,7 +115,7 @@
 
 <a href="https://github.com/karthik-924/">
   <img src="https://github-readme-stats.vercel.app/api?username=karthik-924&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-924&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-924&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="karthik-924"/>
 
 </a>
 </div>
@@ -100,15 +129,15 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/karthik-924/karthik-924/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  karthik-924-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/karthik-924" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  karthikemmadi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -145,6 +174,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Abdul Khalid](https://github.com/karthik-924)
 
 Last Edited on: 09/11/2022
