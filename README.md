@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Karthik Emmadi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></h2>
 </p>
 
 
@@ -13,10 +13,20 @@
 
 <br>
 
-- A passionate Self-taught Software Developer (Front End, Back End and Full Stack).
-- Improving myself by working hard.
-- Currently exploring Web Development, Machine Learning by Self.
-- Personal website [link](https://).
+👋 Hey there! I'm Karthik Emmadi, a passionate software engineer with a Bachelor of Technology in Information Technology from Vignana Bharathi Institute of Technology.
+
+🚀 I'm enthusiastic about creating impactful software solutions and exploring the latest technologies in web development, cloud computing, and artificial intelligence.
+
+🎓 In addition to my formal education, I've gained hands-on experience through internships and personal projects. I've had the opportunity to work as a Software Engineer Intern at KREAAS TECHNOLOGY SOLUTIONS PVT. LTD, where I contributed to building front-end applications and gained valuable experience in team collaboration and project management.
+
+🛠️ My technical skills span across various programming languages, libraries, and frameworks, including C/C++, Java, Python, ReactJs, and NodeJs. I'm also well-versed in cloud technologies like Google Cloud Platform, AWS, and Azure, and proficient in using tools like Git, Visual Studio Code, and Postman.
+
+🏆 I'm proud of my achievements, including securing the 3rd place in JNTUH J-Hub Hackathon, obtaining AWS certification in Artificial Intelligence and Machine Learning, and being recognized as a Two-Star Coder at CodeChef.
+
+📚 I'm constantly seeking opportunities to expand my knowledge and skills, and I'm eager to contribute to impactful projects and collaborate with like-minded individuals in the tech community.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karthik-emmadi-251699233/) or check out my projects on [GitHub](https://github.com/karthik-924)!
+
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/16bi4j0c0yQbuuuJA0HzvpDosQ0bNXr0w/view?usp=sharing)
 
 <br><br>
@@ -136,12 +146,10 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/karthik-924" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  karthikemmadi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/karthik-emmadi-251699233/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  karthik-emmadi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
 
 <br>
 
@@ -173,7 +181,3 @@
 ---
 
 <br>
-
-Credit: [Abdul Khalid](https://github.com/karthik-924)
-
-Last Edited on: 09/11/2022
