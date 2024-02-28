@@ -1,11 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Karthik Emmadi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></h2>
+  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px></h2>
 </p>
-
-
-<br>
 	
 ## <picture><img src = "https://github.com/karthik-924/karthik-924/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
